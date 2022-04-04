@@ -105,3 +105,5 @@ dist
 
 # Hugo Public build folder
 public/
+
+.firebase/
