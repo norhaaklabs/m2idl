@@ -12,7 +12,7 @@ My Motto is, If you can’t break it, you don’t own it, If you don’t own it 
 
 My offer: Strong analytical, problem-solving, computational, and communication skills. Extracurricular activities attest my good ethics and my excellent interpersonal skills.
 
-I’m no religous freak, either you are a believer, atheist or agnositc, I find that everyone of us must strive to make an impact in life.
+I’m no religous freak, either you are a believer, atheist or agnostic, I find that everyone of us must strive to make an impact in life.
 
 There is this passage from the holy coran that I found inspiring:
 

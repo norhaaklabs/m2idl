@@ -9,7 +9,10 @@ tags = ["#leadership", "#management", "#teambuilding", "#motivation", "#entrepre
 categories = []
 externalLink = ""
 series = []
+featured_image = "images/father-son.jpg"
 +++
+ 
+![image alt father-son](/images/father-son.jpg)
 
 The bosses we remember:
 * Provided us a safe place to grow
@@ -22,4 +25,3 @@ The bosses we remember:
 * Told us our work mattered
 * Forgave us when we made mistakes
 
-![image alt father-son](/images/father-son.jpg)
