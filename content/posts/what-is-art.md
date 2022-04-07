@@ -15,8 +15,14 @@ I had a choice to make. Either sit in an office and go crazy or get out and star
 
 If you are not paying close attention you might end up being a robot (AI-powered)
 
-AI Deep Learning
-I Deep IDeep
+AI 
+
+Deep Learning
+
+I Deep 
+
+IDeep
 
 https://www.youtube.com/watch?v=YCtrGn_17M0
+
 https://en.wikipedia.org/wiki/Cha%C3%AFbia_Talal
