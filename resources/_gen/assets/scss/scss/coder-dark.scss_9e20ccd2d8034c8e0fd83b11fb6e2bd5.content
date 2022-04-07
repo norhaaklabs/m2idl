@@ -263,6 +263,7 @@ body.colorscheme-dark .float-container a {
     @media only screen and (max-width: 768px) {
       body.colorscheme-dark .float-container a:hover, body.colorscheme-dark .float-container a:focus {
         color: #dadada; } }
+
 @media (prefers-color-scheme: dark) {
   body.colorscheme-auto .float-container a {
     color: #dadada;
