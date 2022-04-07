@@ -19,3 +19,4 @@ AI Deep Learning
 I Deep IDeep
 
 https://www.youtube.com/watch?v=YCtrGn_17M0
+https://en.wikipedia.org/wiki/Cha%C3%AFbia_Talal
