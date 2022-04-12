@@ -7,10 +7,10 @@ slug = "contact"
 
 My primary communication channel is Email.
 
-My email address is: NORHAAK @ PROTONMAIL.COM
+My email address is: MOUNIR @ NORHAAK.PRO
 
 In case of emergency, you can send an SMS.
 
-My Mobile phone number is: : +212 699-076-808
+My Mobile phone number is: : +44 757-015-8368
 
 We can start a discussion using Telegram, please use the number listed above.
