@@ -109,3 +109,4 @@ public/
 .firebase/
 
 .hugo_build.lock
+resources/
